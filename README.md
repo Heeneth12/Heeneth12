@@ -17,5 +17,3 @@ Welcome to my GitHub profile! I'm passionate about building robust and efficient
 [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,hibernate,maven,gradle,git,postgresql,docker,aws)](https://skillicons.dev)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
-
-
